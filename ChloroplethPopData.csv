@@ -1,9 +1,153 @@
-STATISTIC,Statistic Label,TLIST(A1),Year,C02076V03371,Age Group,C03788V04538,NUTS 3 Region,C02199V02655,Sex,UNIT,VALUE
-PEA26C01,Persons,2023,2023,-,All ages,B1A65D7C-1984-4A87-AD58-0E846812C992,Border,-,Both sexes,Number,430893
-PEA26C01,Persons,2023,2023,-,All ages,F97E459B-57ED-49C0-8A28-2BC1C7F08E88,Dublin,-,Both sexes,Number,1499179
-PEA26C01,Persons,2023,2023,-,All ages,8E4862CC-7E43-4BF5-A4EF-B2D5ECBA61EF,Mid-East,-,Both sexes,Number,776202
-PEA26C01,Persons,2023,2023,-,All ages,B26C8BAA-F3C5-49A9-B74E-D7FED1823E65,Midland,-,Both sexes,Number,324626
-PEA26C01,Persons,2023,2023,-,All ages,42C5C2A5-2D71-4BD1-BDB5-BD7D3198CD78,Mid-West,-,Both sexes,Number,517337
-PEA26C01,Persons,2023,2023,-,All ages,27C93D4E-AD0E-4B0C-8FA8-3566AEEDA5CC,South-East,-,Both sexes,Number,467589
-PEA26C01,Persons,2023,2023,-,All ages,604546A1-A856-4B9B-AD46-E88B27C27155,South-West,-,Both sexes,Number,756254
-PEA26C01,Persons,2023,2023,-,All ages,A69CA800-8D87-4920-A7C1-50426A1D39B4,West,-,Both sexes,Number,499315
+NUTS 3 Region,Age Group,VALUE
+Border,All ages,430893
+Dublin,All ages,1499179
+Mid-East,All ages,776202
+Midland,All ages,324626
+Mid-West,All ages,517337
+South-East,All ages,467589
+South-West,All ages,756254
+West,All ages,499315
+Border,0 - 4 years,26583
+Dublin,0 - 4 years,83398
+Mid-East,0 - 4 years,46046
+Midland,0 - 4 years,18554
+Mid-West,0 - 4 years,28716
+South-East,0 - 4 years,25951
+South-West,0 - 4 years,41076
+West,0 - 4 years,27683
+Border,5 - 9 years,29001
+Dublin,5 - 9 years,92710
+Mid-East,5 - 9 years,54857
+Midland,5 - 9 years,22703
+Mid-West,5 - 9 years,32193
+South-East,5 - 9 years,29886
+South-West,5 - 9 years,48045
+West,5 - 9 years,32572
+Border,10 - 14 years,33340
+Dublin,10 - 14 years,98734
+Mid-East,10 - 14 years,61971
+Midland,10 - 14 years,25026
+Mid-West,10 - 14 years,36915
+South-East,10 - 14 years,34636
+South-West,10 - 14 years,53541
+West,10 - 14 years,35304
+Border,15 - 19 years,29278
+Dublin,15 - 19 years,87674
+Mid-East,15 - 19 years,56028
+Midland,15 - 19 years,22926
+Mid-West,15 - 19 years,34300
+South-East,15 - 19 years,32318
+South-West,15 - 19 years,48848
+West,15 - 19 years,32167
+Border,20 - 24 years,23191
+Dublin,20 - 24 years,94810
+Mid-East,20 - 24 years,46945
+Midland,20 - 24 years,18751
+Mid-West,20 - 24 years,30464
+South-East,20 - 24 years,26987
+South-West,20 - 24 years,44070
+West,20 - 24 years,29219
+Border,25 - 29 years,20491
+Dublin,25 - 29 years,113203
+Mid-East,25 - 29 years,38776
+Midland,25 - 29 years,16954
+Mid-West,25 - 29 years,28119
+South-East,25 - 29 years,23540
+South-West,25 - 29 years,42107
+West,25 - 29 years,26369
+Border,30 - 34 years,23041
+Dublin,30 - 34 years,121853
+Mid-East,30 - 34 years,44447
+Midland,30 - 34 years,18922
+Mid-West,30 - 34 years,29955
+South-East,30 - 34 years,26503
+South-West,30 - 34 years,45726
+West,30 - 34 years,28862
+Border,35 - 39 years,28416
+Dublin,35 - 39 years,124419
+Mid-East,35 - 39 years,55605
+Midland,35 - 39 years,23691
+Mid-West,35 - 39 years,35131
+South-East,35 - 39 years,31373
+South-West,35 - 39 years,53074
+West,35 - 39 years,34253
+Border,40 - 44 years,32041
+Dublin,40 - 44 years,127670
+Mid-East,40 - 44 years,64827
+Midland,40 - 44 years,26309
+Mid-West,40 - 44 years,39775
+South-East,40 - 44 years,35819
+South-West,40 - 44 years,60125
+West,40 - 44 years,39142
+Border,45 - 49 years,30515
+Dublin,45 - 49 years,106803
+Mid-East,45 - 49 years,60256
+Midland,45 - 49 years,23580
+Mid-West,45 - 49 years,37298
+South-East,45 - 49 years,33945
+South-West,45 - 49 years,55539
+West,45 - 49 years,35947
+Border,50 - 54 years,29141
+Dublin,50 - 54 years,92864
+Mid-East,50 - 54 years,55431
+Midland,50 - 54 years,21775
+Mid-West,50 - 54 years,34879
+South-East,50 - 54 years,32252
+South-West,50 - 54 years,51241
+West,50 - 54 years,33409
+Border,55 - 59 years,27080
+Dublin,55 - 59 years,80528
+Mid-East,55 - 59 years,46887
+Midland,55 - 59 years,19726
+Mid-West,55 - 59 years,32602
+South-East,55 - 59 years,29979
+South-West,55 - 59 years,47143
+West,55 - 59 years,30938
+Border,60 - 64 years,25183
+Dublin,60 - 64 years,72360
+Mid-East,60 - 64 years,39473
+Midland,60 - 64 years,17539
+Mid-West,60 - 64 years,29731
+South-East,60 - 64 years,27467
+South-West,60 - 64 years,42866
+West,60 - 64 years,28548
+Border,65 - 69 years,22313
+Dublin,65 - 69 years,60306
+Mid-East,65 - 69 years,33328
+Midland,65 - 69 years,15157
+Mid-West,65 - 69 years,26620
+South-East,65 - 69 years,23349
+South-West,65 - 69 years,37159
+West,65 - 69 years,25909
+Border,70 - 74 years,19302
+Dublin,70 - 74 years,51749
+Mid-East,70 - 74 years,27764
+Midland,70 - 74 years,12662
+Mid-West,70 - 74 years,23035
+South-East,70 - 74 years,20002
+South-West,70 - 74 years,32066
+West,70 - 74 years,22093
+Border,75 - 79 years,14874
+Dublin,75 - 79 years,39690
+Mid-East,75 - 79 years,21381
+Midland,75 - 79 years,9621
+Mid-West,75 - 79 years,17688
+South-East,75 - 79 years,15636
+South-West,75 - 79 years,24950
+West,75 - 79 years,16718
+Border,80 - 84 years,9164
+Dublin,80 - 84 years,26237
+Mid-East,80 - 84 years,12415
+Midland,80 - 84 years,5745
+Mid-West,80 - 84 years,10854
+South-East,80 - 84 years,9744
+South-West,80 - 84 years,15315
+West,80 - 84 years,10635
+Border,85 years and over,7939
+Dublin,85 years and over,24171
+Mid-East,85 years and over,9765
+Midland,85 years and over,4985
+Mid-West,85 years and over,9062
+South-East,85 years and over,8202
+South-West,85 years and over,13363
+West,85 years and over,9547
